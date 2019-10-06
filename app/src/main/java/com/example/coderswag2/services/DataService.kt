@@ -1,7 +1,7 @@
-package com.example.coderswag2.Services
+package com.example.coderswag2.services
 
-import com.example.coderswag2.Model.Category
-import com.example.coderswag2.Model.Product
+import com.example.coderswag2.model.Category
+import com.example.coderswag2.model.Product
 
 object DataService {
 
